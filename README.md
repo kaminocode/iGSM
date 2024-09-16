@@ -13,7 +13,8 @@ igsm (Infinite Grade School Math) is a Python package for generating diverse gra
 ## Installation
 
 ```bash
-pip install igsm
+git clone https://github.com/kaminocode/iGSM.git
+pip install -e .
 ```
 
 ## Quick Start
