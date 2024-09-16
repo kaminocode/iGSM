@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="igsm",  # Changed to lowercase
+    name="igsm",  
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Rahul Baburajan",
+    author_email="rahuledachali@gmail.com",
     description="A generator for Infinite Grade School Math (igsm) datasets",
     long_description=long_description,
     long_description_content_type="text/markdown",
