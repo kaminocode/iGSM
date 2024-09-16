@@ -31,10 +31,6 @@ for problem in problems:
     print("---")
 ```
 
-## Documentation
-
-For more detailed information on how to use and customize the igsm Dataset Generator, please refer to our [documentation](https://igsm.readthedocs.io).
-
 ## Contributing
 
 We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
