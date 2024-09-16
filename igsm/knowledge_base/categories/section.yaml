@@ -1,0 +1,14 @@
+Section:
+  default_type: "General"
+  items:
+    - name: "Fiction"
+    - name: "Non-Fiction"
+    - name: "Reference"
+    - name: "Children's"
+    - name: "Young Adult"
+    - name: "Periodicals"
+    - name: "Multimedia"
+    - name: "Local History"
+      type: "Specialized"
+    - name: "Science and Technology"
+    - name: "Arts and Literature"

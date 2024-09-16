@@ -1,0 +1,23 @@
+Stationery:
+  default_type: "General Stationery"
+  items:
+    - name: "Pencil"
+      type: "Writing"
+    - name: "Notebook"
+      type: "Paper"
+    - name: "Calculator"
+      type: "Electronics"
+    - name: "Eraser"
+      type: "Correction"
+    - name: "Ruler"
+      type: "Measurement"
+    - name: "Pen"
+      type: "Writing"
+    - name: "Highlighter"
+      type: "Marking"
+    - name: "Scissors"
+      type: "Cutting"
+    - name: "Glue Stick"
+      type: "Adhesive"
+    - name: "Stapler"
+    # No type specified, will use default_type

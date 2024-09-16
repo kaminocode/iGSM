@@ -1,0 +1,23 @@
+School:
+  default_type: "General School"
+  items:
+    - name: "Lincoln High"
+      type: "High School"
+    - name: "Riverview High"
+      type: "High School"
+    - name: "Central High"
+      type: "High School"
+    - name: "Oakwood Elementary"
+      type: "Elementary School"
+    - name: "Sunset Middle School"
+      type: "Middle School"
+    - name: "Greenfield Academy"
+      type: "Private School"
+    - name: "Lakeshore High"
+      type: "High School"
+    - name: "Pine Grove Elementary"
+      type: "Elementary School"
+    - name: "Hillcrest Middle School"
+      type: "Middle School"
+    - name: "Evergreen Montessori"
+    # No type specified, will use default_type

@@ -1,0 +1,17 @@
+Organ:
+  default_type: "Internal"
+  items:
+    - name: "Heart"
+    - name: "Lung"
+    - name: "Brain"
+    - name: "Liver"
+    - name: "Kidney"
+    - name: "Stomach"
+    - name: "Skin"
+      type: "External"
+    - name: "Eye"
+      type: "Sensory"
+    - name: "Leaf"
+      type: "Plant"
+    - name: "Root"
+      type: "Plant"

@@ -1,0 +1,23 @@
+Backpack:
+  default_type: "General Backpack"
+  items:
+    - name: "School Daypack"
+    # No type specified, will use default_type
+    - name: "Messenger Bag"
+    # No type specified, will use default_type
+    - name: "Laptop Backpack"
+      type: "Technology"
+    - name: "Sports Duffel"
+      type: "Sports"
+    - name: "Rolling Backpack"
+    # No type specified, will use default_type
+    - name: "Drawstring Bag"
+    # No type specified, will use default_type
+    - name: "Sling Backpack"
+    # No type specified, will use default_type
+    - name: "Art Portfolio Bag"
+      type: "Arts"
+    - name: "Insulated Lunch Backpack"
+      type: "Food"
+    - name: "Hiking Backpack"
+      type: "Outdoor"

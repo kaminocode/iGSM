@@ -1,0 +1,23 @@
+Classroom:
+  default_type: "General Classroom"
+  items:
+    - name: "Music Room"
+      type: "Arts"
+    - name: "Art Studio"
+      type: "Arts"
+    - name: "Science Lab"
+      type: "Science"
+    - name: "Computer Lab"
+      type: "Technology"
+    - name: "Gymnasium"
+      type: "Physical Education"
+    - name: "Library"
+    # No type specified, will use default_type
+    - name: "Math Classroom"
+      type: "Math"
+    - name: "Language Lab"
+      type: "Languages"
+    - name: "History Classroom"
+      type: "Social Studies"
+    - name: "Drama Studio"
+      type: "Arts"

@@ -1,0 +1,16 @@
+Ecosystem:
+  default_type: "Terrestrial"
+  items:
+    - name: "Rainforest"
+    - name: "Desert"
+    - name: "Grassland"
+    - name: "Tundra"
+    - name: "Coral Reef"
+      type: "Aquatic"
+    - name: "Deciduous Forest"
+    - name: "Boreal Forest"
+    - name: "Savanna"
+    - name: "Mangrove Swamp"
+      type: "Wetland"
+    - name: "Alpine"
+      type: "Mountain"

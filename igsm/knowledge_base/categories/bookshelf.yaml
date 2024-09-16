@@ -1,0 +1,16 @@
+Bookshelf:
+  default_type: "Standard"
+  items:
+    - name: "Wall-mounted Shelf"
+    - name: "Free-standing Bookcase"
+    - name: "Rolling Cart"
+      type: "Mobile"
+    - name: "Corner Shelf"
+    - name: "Barrister Bookcase"
+      type: "Antique"
+    - name: "Built-in Shelving"
+    - name: "Ladder Shelf"
+    - name: "Cube Storage"
+    - name: "Display Shelf"
+    - name: "Magazine Rack"
+      type: "Specialized"

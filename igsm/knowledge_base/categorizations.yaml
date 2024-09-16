@@ -1,0 +1,48 @@
+categorizations:
+  - name: "school_system"
+    categories:
+      - "School"
+      - "Classroom"
+      - "Backpack"
+      - "Stationery"
+    file_paths:
+      - "categories/school.yaml"
+      - "categories/classroom.yaml"
+      - "categories/backpack.yaml"
+      - "categories/stationery.yaml"
+
+  - name: "zoo_system"
+    categories:
+      - "Zoo"
+      - "Enclosure"
+      - "Animal"
+      - "Bone"
+    file_paths:
+      - "categories/zoo.yaml"
+      - "categories/enclosure.yaml"
+      - "categories/animal.yaml"
+      - "categories/bone.yaml"
+
+  - name: "ecosystem"
+    categories:
+      - "Ecosystem"
+      - "Habitat"
+      - "Species"
+      - "Organ"
+    file_paths:
+      - "categories/ecosystem.yaml"
+      - "categories/habitat.yaml"
+      - "categories/species.yaml"
+      - "categories/organ.yaml"
+
+  - name: "library_system"
+    categories:
+      - "Library"
+      - "Section"
+      - "Bookshelf"
+      - "Book"
+    file_paths:
+      - "categories/library.yaml"
+      - "categories/section.yaml"
+      - "categories/bookshelf.yaml"
+      - "categories/book.yaml"
